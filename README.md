@@ -5,7 +5,7 @@
 2. Edit task.
 3. Cross out or delete task.
 <p align="center">
-  <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://user-images.githubusercontent.com/88438873/175084382-26135d0f-d901-4255-bc01-2241041d984b.png)" alt="Material Bread logo">
+  <img width="200" src="[https://user-images.githubusercontent.com/88438873/175084382-26135d0f-d901-4255-bc01-2241041d984b.png]" alt="Material Bread logo">
 
 </p>
 
