@@ -1,0 +1,47 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="{% static '/css/main.css' %}" type="text/css">
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>ToDo Application</title>
+		<link rel="icon" type="image/x-icon" href="{% static 'images/favicon.ico' %}">
+	</head>
+<body>
+	<br>
+	<h1>Simple for your daily tasks.</h1>
+	
+	<div class="center-column">
+	
+		<form method="POST" action="/">
+			{% csrf_token %}
+			{{form.title}}
+			<input class="create-btn" type="submit" value="Create Task">
+		</form>
+	
+		<div class="todo-list">
+	
+		{% for task in tasks %}
+			<div class="item-row">
+				<a class="delete-btn" href="{% url 'delete' task.id %}">Delete</a>
+				<a class="edit-btn" href="{% url 'update_task' task.id %}">Edit</a>
+				{% if task.complete == True %}
+				<strike>{{task}}</strike>
+				<a class='undo-btn' href="{% url 'uncross' task.id %}">Undo</a>
+				{% else %}
+				<span>{{task}}</span>
+				<a class='completed-btn' href="{% url 'cross_off' task.id %}">Done</a>
+				{% endif %}
+			</div>
+		{% endfor %}
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,214 @@
+/* Body */
+body{
+	background-color: #fafafa;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+/* Todo */
+
+input{
+	padding: 12px 20px;
+	margin: 8px 0;
+	border-radius: 7px; 
+	color: #353535;
+	border: 2px solid #ccc;
+	box-sizing: border-box;
+    outline: none;
+    border: none;
+	width: 100%;
+    box-shadow: 0px 8px 30px rgb(26 22 77 / 13%);
+    transition: box-shadow 0.3s ease-out;	
+}
+
+
+.submit{
+	background-color: #6B71F5;
+
+}
+
+.center-column{
+	width:600px;
+	margin: 20px auto;
+	padding:20px;
+	background-color: #fff;
+	border-radius: 15px;
+	box-shadow: 6px 2px 30px 0px #EDEDF0;
+}
+
+.center-column-upd{
+	width:600px;
+    margin: 40px auto;
+    padding:20px;
+    margin-top: 200px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 6px 2px 30px 0px #EDEDF0;
+}
+
+.item-row{
+	margin: 10px;	
+	padding: 20px;
+	border-radius: 15px;
+	color: #000;
+	font-size: 16px;
+	/* box-shadow: 2px 2px 3px rgb(245, 245, 245); */
+}
+
+
+.create-btn{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 600;
+	width: 28%;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: block;
+	color: #fafafa;
+	background-color: #5596e6;
+	border: none;
+	box-shadow: 2px 2px 10px #5596e676;
+	letter-spacing: 1px;
+}
+
+.create-btn:hover{
+	color: #fafafa;
+    background-color: #5596e6ef;
+}
+
+.edit-btn{
+	float: right;
+	font-weight: 600;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 5px;
+	border: none;
+	background-color: #5596e6;
+	color: #fafafa;
+	margin-left: 5px;
+	padding: 5px 5px 5px 5px;
+	box-shadow: 2px 2px 10px #5596e676;
+}
+
+.edit-btn:hover{
+	text-decoration: none;
+    background-color: #5596e6ef;
+	color: #fafafa;
+}
+
+.delete-btn{
+	float: right;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 5px;
+	border: none;
+	background-color: #ff7373;
+	color: #fafafa;
+	margin-left: 5px;
+	padding: 5px 5px 5px 5px;
+	box-shadow: 2px 2px 10px #ff73735c;
+}
+
+.delete-btn:hover{
+	text-decoration: none;
+	background-color: #ff7373d3;
+	color: #fafafa;
+}
+
+.completed-btn, .undo-btn{
+	float: right;
+	width: 13%;
+	font-weight: 600;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 5px;
+	border: none;
+	background-color: rgb(123, 233, 187);
+	color: #fafafa;
+	margin-left: 5px;
+	padding: 5px 5px 5px 5px;
+	box-shadow: 2px 2px 10px rgba(123, 233, 187, 0.423);;
+}
+
+.completed-btn:hover, .undo-btn:hover{
+	color: #fafafa;
+	background-color: rgba(123, 233, 187, 0.859);;
+	text-decoration: none;
+}
+
+h1{
+	text-align: center;
+}
+
+/* Delete Task */
+
+.delete {
+	width: 28%;
+    color: #fafafa;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    margin-right: 5px;
+    background-color: #f56b6b;
+    border-radius: 7px;
+	border: none;
+    box-shadow: 3px 2px 30px 0px #eab2b2;
+}
+
+.delete:hover{
+    background-color: #f08282;
+    border-color: #f08282;
+}
+
+.delete:focus{
+    outline: none !important;
+}
+
+
+/* Update Task */
+
+.edit{
+	font-weight: 600;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	width: 20%;
+    color: #fafafa;
+    letter-spacing: 0.2px;
+    margin-right: 5px;
+	background-color: #5596e6;
+	border: none;
+	border-radius: 7px;
+	box-shadow: 2px 2px 10px #5596e676;
+    
+}
+
+.edit:hover{
+    background-color: #5596e6ef;	
+}
+
+.edit:focus{
+    outline: none !important;
+}
+
+
+.object{
+    color: #22272C;
+    font-weight: bold;
+	text-align: center;
+	font-size: 20	px;
+}
+
+
+/* Cancel for UPD and Delete */
+
+.cancel{
+    text-decoration: none;
+    color: #4d4f555e;
+}
+
+.cancel:hover{
+    color: #4d4f5585;
+	text-decoration: none;
+}
