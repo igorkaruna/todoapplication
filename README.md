@@ -4,6 +4,10 @@
 1. Create task.
 2. Edit task.
 3. Cross out or delete task.
+<p align="center">
+  ![logo](https://user-images.githubusercontent.com/88438873/175083299-3d3658cc-a576-44ce-a4ba-70c54af5f506.png)
+</p>
+
 
 **- Create task -**
 <img width="1552" alt="Screenshot 2022-06-22 at 19 08 54" src="https://user-images.githubusercontent.com/88438873/175081864-bda8ff2f-8e7b-4cc6-aff9-61e56ffe09a7.png">
