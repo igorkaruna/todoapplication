@@ -12,3 +12,14 @@
 
 <p align="center"><strong>Look of website</strong></p>
 <img width="1552" alt="Main" src="https://user-images.githubusercontent.com/88438873/175081864-bda8ff2f-8e7b-4cc6-aff9-61e56ffe09a7.png">
+
+1. Install Python
+
+2. Install Django
+```pip install django```
+
+3. Download Zip-File or clone the project
+```git clone ...``
+
+4. Start the project
+```python/python3 manage.py runserver```
