@@ -5,7 +5,7 @@
 2. Edit task.
 3. Cross out or delete task.
 <p align="center">
-  <img width="1552" alt="Screenshot 2022-06-22 at 19 13 29" src="[https://user-images.githubusercontent.com/88438873/175081873-63768126-6349-4a8b-9219-4c4b24a52b33.png](https://user-images.githubusercontent.com/88438873/175083621-ebfdadb5-bfeb-4a0b-83e3-bcddf8bb248d.png)">
+  <img width="1552" alt="Screenshot 2022-06-22 at 19 13 29" src="[https://user-images.githubusercontent.com/88438873/175083621-ebfdadb5-bfeb-4a0b-83e3-bcddf8bb248d.png]">
 </p>
 
 
