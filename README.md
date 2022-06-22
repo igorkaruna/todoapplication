@@ -4,7 +4,7 @@
   
 </p>
 
-<a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#functionality">123</a>
+<a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#functionality" text-decoration ="none" color="#fff">123</a>
 
 <h2>Functionality</h2>
 
