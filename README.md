@@ -7,7 +7,7 @@
 <h2>Functionality</h2>
 
 1. <strong>Create</strong> task.
-2. <strong>Edit/strong> task.
+2. <strong>Edit</strong> task.
 3. <strong>Cross out</strong> task.
 4. <strong>Delete</strong> task
 
