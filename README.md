@@ -17,7 +17,6 @@
 <h2>Start project on your machine</h2>
 
 1. Install Python
-Click to visit Python official website
 
 2. Install Django
  ```pip install django```
