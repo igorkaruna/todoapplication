@@ -4,7 +4,9 @@
   
 </p>
 
-<a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#functionality" text-decoration ="none" color="#fff">123</a>
+<a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#functionality">Functioanlity</a>
+<a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#functionality">Screenshot of the main page</a>
+<a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#functionality">Start project on your machine</a>
 
 <h2>Functionality</h2>
 
