@@ -5,6 +5,7 @@
 </p>
 
 <h2>Functionality</h2>
+
 1. Create task.
 2. Edit task.
 3. Cross out task.
