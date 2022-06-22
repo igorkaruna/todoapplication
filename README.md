@@ -10,7 +10,7 @@
 3. Cross out task.
 4. Delete task
 
-<p align="center"><h3>Screenshot of the main page</h3></p>
+<p align="center"><h2>Screenshot of the main page</h2></p>
 <img width="1552" alt="Main" src="https://user-images.githubusercontent.com/88438873/175081864-bda8ff2f-8e7b-4cc6-aff9-61e56ffe09a7.png">
 
 <h2>Start project on your machine</h2>
