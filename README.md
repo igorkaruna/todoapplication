@@ -4,10 +4,11 @@
   
 </p>
 
+<h2>Navigation</h2>
 <ul>
 <li><a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#functionality">Functioanlity</a></li>
-<li><a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#functionality">Screenshot of the main page</a></li>
-<li><a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#functionality">Start project on your machine</a></li>
+<li><a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#screenshot-of-the-main-page">Screenshot of the main page</a></li>
+<li><a href="https://github.com/igorkaruna/todoapplication/blob/main/README.md#screenshot-of-the-main-page">Start project on your machine</a></li>
  </ul>
 
 <h2>Functionality</h2>
