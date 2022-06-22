@@ -24,6 +24,6 @@
 3. Download Zip-File or clone the project
 ```git clone ...```
 
-4. Start the project
+4. Run project
 ```python/python3 manage.py runserver```
 
