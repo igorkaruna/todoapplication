@@ -15,7 +15,6 @@
 <img width="1552" alt="Main" src="https://user-images.githubusercontent.com/88438873/175081864-bda8ff2f-8e7b-4cc6-aff9-61e56ffe09a7.png">
 
 <h2>Start project on your machine</h2>
-<hr>
 
 1. Install Python
 Click to visit Python official website
