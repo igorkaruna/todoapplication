@@ -17,8 +17,9 @@
 <p>Click to visit Python official website</p>
 
 2. Install Django
-<p>```pip install django```</p>
-```pip install django```
+<p>
+ ```pip install django```
+</p>
 
 3. Download Zip-File or clone the project
 <p>```git clone ...```</p>
