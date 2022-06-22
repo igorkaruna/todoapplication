@@ -1,5 +1,10 @@
 # ToDo Application using Django
 
+**Functionality**
+1. Create task.
+2. Edit task.
+3. Cross out or delete task.
+
 **- Create your Tasks or Cross Out your Tasks**
 <img width="1552" alt="Screenshot 2022-06-22 at 19 08 54" src="https://user-images.githubusercontent.com/88438873/175081864-bda8ff2f-8e7b-4cc6-aff9-61e56ffe09a7.png">
 **- Edit your Task**
