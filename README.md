@@ -6,10 +6,10 @@
 
 <h2>Functionality</h2>
 
-1. Create task.
-2. Edit task.
-3. Cross out task.
-4. Delete task
+1. <strong>Create</strong> task.
+2. <strong>Edit/strong> task.
+3. <strong>Cross out</strong> task.
+4. <strong>Delete</strong> task
 
 <p align="center"><h2>Screenshot of the main page</h2></p>
 <img width="1552" alt="Main" src="https://user-images.githubusercontent.com/88438873/175081864-bda8ff2f-8e7b-4cc6-aff9-61e56ffe09a7.png">
