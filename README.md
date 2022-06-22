@@ -1,7 +1,4 @@
-<style>
-  h1{text-align: center;}
- </style>
-<h1 class="todo">ToDo Application<h1>
+<h1 align="center">ToDo Application<h1>
 <p align="center">
   <img width="200" alt="Screenshot 2022-06-22 at 19 08 54" src="https://user-images.githubusercontent.com/88438873/175084734-93262612-7bba-4eee-8d77-c6d5e8d210c1.jpeg">
 
