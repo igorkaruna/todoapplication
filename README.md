@@ -14,16 +14,14 @@
 <img width="1552" alt="Main" src="https://user-images.githubusercontent.com/88438873/175081864-bda8ff2f-8e7b-4cc6-aff9-61e56ffe09a7.png">
 
 1. Install Python
-<p>Click to visit Python official website</p>
+Click to visit Python official website
 
 2. Install Django
-<p>
  ```pip install django```
-</p>
 
 3. Download Zip-File or clone the project
-<p>```git clone ...```</p>
+```git clone ...```
 
 4. Start the project
-<p>```python/python3 manage.py runserver```
-</p>
+```python/python3 manage.py runserver```
+
