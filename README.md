@@ -20,6 +20,7 @@
 
 <p align="center"><h2>Screenshot of the main page</h2></p>
 <img width="1552" alt="Main" src="https://user-images.githubusercontent.com/88438873/175081864-bda8ff2f-8e7b-4cc6-aff9-61e56ffe09a7.png">
+<img width="1551" alt="Screenshot 2022-07-09 at 16 00 56" src="https://user-images.githubusercontent.com/88438873/178106894-834977a2-a9e5-4819-971e-5e76b1ece64d.png">
 
 
 <h2>Start project on your machine</h2>
